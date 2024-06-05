@@ -1,2 +1,2 @@
-# Retinal Disease Classficiation using DL
+# Retinal Disease Classificiation using DL
  
