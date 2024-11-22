@@ -30,8 +30,8 @@ The model demonstrates impressive performance in detecting and classifying vario
 3. Execute the main script to train or test the model:
    python main.py
 
-##📚 About the Team
+## 📚 About the Team
 This project was created as part of a Bachelor's program at JSPM Jayawantrao Sawant College of Engineering (2023–2024) to explore the potential of deep learning in healthcare.
 
-##🤝 Contributions
+## 🤝 Contributions
 Contributions are welcome! Feel free to fork the repository and submit pull requests for improvements.
