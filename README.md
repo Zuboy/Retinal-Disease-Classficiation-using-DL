@@ -1,9 +1,10 @@
 # Retinal Disease Classification Using Deep Learning
 
-![health-2022-0032-f01](https://github.com/user-attachments/assets/4c84a9b3-affe-4190-97e7-c02282c3a62f)
+![Scan to Check (1)](https://github.com/user-attachments/assets/7ac146ad-428a-418a-897d-b6838e1162da)
 
 ## 🌟 Overview
 This project presents a cost-efficient and accurate method for detecting and classifying retinal diseases from OCT images using advanced **Convolutional Neural Networks (CNNs)** and **Transformer-based architectures**. Developed with a focus on precision and scalability, it aims to aid early diagnosis and prevention of retinal conditions, ensuring enhanced patient care.
+![health-2022-0032-f01](https://github.com/user-attachments/assets/4c84a9b3-affe-4190-97e7-c02282c3a62f)
 
 ## 🚀 Features
 - **Hybrid Architecture**: Combines CNN for feature extraction and Transformer for contextual analysis.
